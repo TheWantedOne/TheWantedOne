@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gluhić</h1>
 <h3 align="center">Junior web-developer</h3>
-<img src="https://i.gifer.com/6tXM.gif"  width="300"/>
+<div style="padding-top:73.333%;position:relative;"><iframe src="https://gifer.com/embed/6tXM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 
 - 🔭 I’m currently working my buisness website **SigmaDevelopment**
 
