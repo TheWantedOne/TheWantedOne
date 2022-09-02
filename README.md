@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gluhić</h1>
 <h3 align="center">Junior web-developer</h3>
+<img src="https://i.gifer.com/6tXM.gif"  width="300"/>
 
 - 🔭 I’m currently working my buisness website **SigmaDevelopment**
 
